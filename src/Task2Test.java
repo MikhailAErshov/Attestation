@@ -58,7 +58,7 @@ public class Task2Test {
                 water = new Autumn();
         }
 
-        System.out.println(((WaterTheCactus)water).waterTheCactus(date2, date3));
+        water.printDateWaterTheCactus(date2, date3);
         sc.close();
     }
 }

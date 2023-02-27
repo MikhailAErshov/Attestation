@@ -1,3 +1,3 @@
 public interface WaterTheCactus {
-    Object waterTheCactus(int var1, int var2);
+    void printDateWaterTheCactus(int var1, int var2);
 }
